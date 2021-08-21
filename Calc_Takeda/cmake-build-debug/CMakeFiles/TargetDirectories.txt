@@ -1,0 +1,3 @@
+C:/Users/mg-ta/CLionProjects/Calc_Takeda/cmake-build-debug/CMakeFiles/Calc_Takeda.dir
+C:/Users/mg-ta/CLionProjects/Calc_Takeda/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mg-ta/CLionProjects/Calc_Takeda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
